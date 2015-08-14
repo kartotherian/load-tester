@@ -1,0 +1,10 @@
+{
+	"name": "load-tester",
+	"version": "0.8.0",
+	"description": "Tests the performance of a tileserver using realistically-looking load patterns",
+	"dependencies": {
+		"minimist": "*",
+		"preq": "*",
+		"underscore": "*"
+	}
+}
